@@ -32,5 +32,11 @@
 		android:layout_height="warp_content"
 		android:text="Hello RObin EDU/>
 . 4 在java中的onCreate中调用setContentView(R.layout.myLayout);
+# androidManiffest.xml的作用
+## 概念
+	 他是应用程序的清单文件，每个应用都必须包含，位于应用根目录下
+##  作用：
+. 1. 他描述了程序的基本属性
+. 2. 他描述了应用程序需要使用的权限
+. 3. 描述包含的应用组件的实现类
 
-	
